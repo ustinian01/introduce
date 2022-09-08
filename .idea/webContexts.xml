@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/web/HTML/1_HelloWorld.html" value="file://$PROJECT_DIR$/web" />
+        <entry key="file://$PROJECT_DIR$/web/HTML/control.html" value="file://$PROJECT_DIR$/web/HTML" />
+        <entry key="file://$PROJECT_DIR$/web/HTML/文本标签.html" value="file://$PROJECT_DIR$/web/HTML" />
+      </map>
+    </option>
+  </component>
+</project>
